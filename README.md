@@ -6,7 +6,7 @@
 * 🌱 **I’m currently learning:** Full stack backend projects and advanced Data Structures & Algorithms (DSA).
 * 👯 **I’m looking to collaborate on:** Open-source MERN stack development and cloud-based architecture projects.
 * 🤔 **I’m looking for help with:**Mastering advanced system design concepts and finding great open-source repositories to contribute to.
-* 💬 **Ask me about:** Full-stack web development, C++/Java, DSA, or UI/UX design using Figma and Canva.
+* 💬 **Ask me about:** Full-stack web development, C++, DSA, or UI/UX design using Figma and Canva.
 * 📫 **How to reach me:** Connect with me via LinkedIn or drop an email through my GitHub socials.
 * 😄 **Pronouns:** She/Her
 * ⚡ **Fun fact:** I Love Tech and Tech Love Me! (I also design promotional background assets for technical events )
