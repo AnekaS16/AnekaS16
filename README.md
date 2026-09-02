@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aneka-srivastava-333087321) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aneka7216@gmail.com) 
 
 * 🔭 **I’m currently working on:** Full-stack MERN web applications 
-* 🌱 **I’m currently learning:** AWS Data Engineering architectures and advanced Data Structures & Algorithms (DSA).
+* 🌱 **I’m currently learning:** Full stack backend projects and advanced Data Structures & Algorithms (DSA).
 * 👯 **I’m looking to collaborate on:** Open-source MERN stack development and cloud-based architecture projects.
 * 🤔 **I’m looking for help with:**Mastering advanced system design concepts and finding great open-source repositories to contribute to.
 * 💬 **Ask me about:** Full-stack web development, C++/Java, DSA, or UI/UX design using Figma and Canva.
